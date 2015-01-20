@@ -16,8 +16,9 @@ user	2m8.509s
 sys	0m4.926s
 
 AWS time:
-
-
+real	13m48.356s
+user	0m1.823s
+sys	0m0.237s
 
 4. How many address tags are there in the input?
 
