@@ -1,12 +1,12 @@
 1. A copy of the output directory for the tag counter running locally (name the directory 'out').
 
 See “out-local” directory that is also uploaded.
-Please note that I merged the different parts into "parts-merged" file (used command "cat part-00000 part-00001 > parts-merged" )
+Please note that I merged the different parts into "parts-merged" file (used command "cat part-00000 part-00001 > parts-merged" ).
 
 2. A copy of the output from S3 for the tag counter running on AWS (name the directory 'emr-out').
 
 See “out-AWS” directory that is also uploaded.
-I merged the different parts into "parts-merged" file
+I merged the different parts into "parts-merged" file.
 
 3. How long did it take to run the process for each of these?
 
@@ -31,4 +31,4 @@ AWS: 5140 tags
 
 5. Does the local version and EMR version give the same answer?
 
-They gave the same answer of 5140 tags
+They gave the same answer of 5140 tags.
