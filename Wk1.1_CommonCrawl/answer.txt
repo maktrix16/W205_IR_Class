@@ -31,4 +31,4 @@ AWS: 5140 tags
 
 5. Does the local version and EMR version give the same answer?
 
-They gave the same answer of 5140 tags. 
+They gave the same answer of 5140 tags
